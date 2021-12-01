@@ -1,0 +1,27 @@
+/*
+ ATIVIDADE DE INTRODUÇAÕ À CSS
+ Aplicar css a página da atividade anterior 'conceitos de design'(titulos.html).
+*/
+body{
+    background-color:#2f4f4f;
+}
+h1{
+    color:#f8f8ff;
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    color:#f8f8ff;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    font-size: 10 ;
+    text-align: justify;
+    color: #f8f8ff;
+    font-family: inherit;
+}
+address{
+    color:#f8f8ff;
+}

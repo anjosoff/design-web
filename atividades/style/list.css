@@ -1,0 +1,56 @@
+/*
+Desenvolvido por INFOWEB
+
+CSS EXTERNO
+*/
+body{
+    background-color:#2f4f4f;
+}
+h1{
+    color:#f8f8ff;
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    color:#f8f8ff;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    font-size: 10 ;
+    text-align: justify;
+    color: #f8f8ff;
+    font-family: inherit;
+}
+ul, ol{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ol.list2{
+    width: 800;
+}
+ol.list2 li{
+    text-align: left;
+    width: 350;
+    color: white;
+}
+ul.list{
+    list-style-type: disc;
+    width: 600px;
+}
+ul.list li{
+    width: 250px;
+    color: white;
+}
+ul.list3{
+    list-style-type: square;
+    width: 600px;
+}
+ul.list3 li{
+    width: 250px;
+    color: white;
+}
+address{
+    text-align: center;
+    color:#f8f8ff;
+}
