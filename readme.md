@@ -20,4 +20,4 @@ Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 
 [https://github.com/yourname/github-link](https://github.com/othonalberto/)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=JaumCarvalho.Projeto-de-Locadora-de-carros](https://www.yushi.dev/)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=JaumCarvalho.Projeto-de-Locadora-de-carros)
