@@ -6,7 +6,10 @@ Seja bem vindo ao <a href="https://github.com/JaumCarvalho/Projeto-de-Locadora-d
 
 
 ## Nivéis do projeto
-![Progress](https://progress-bar.dev/20/?title=Frontend)
+![Progress](https://progress-bar.dev/30/?title=Frontend)
+![Progress](https://progress-bar.dev/25/?title=backend)
+![Progress](https://progress-bar.dev/40/?title=API)
+![Progress](https://progress-bar.dev/40/?title=database)
 
 
 ## Utilizado neste projeto
