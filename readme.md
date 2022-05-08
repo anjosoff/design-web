@@ -26,3 +26,4 @@ Seja bem vindo ao <a href="https://github.com/JaumCarvalho/Projeto-de-Locadora-d
 
 Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 
+![](https://github-readme-stats.vercel.app/api?username={anjosoff}&theme=blue-green)
