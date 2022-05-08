@@ -2,11 +2,14 @@
 Seja bem vindo ao <a href="https://github.com/JaumCarvalho/Projeto-de-Locadora-de-carros" target="_blank" rel="noreferrer">Locadora Project Intact</a> 👋
 </h3>
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=JaumCarvalho.Projeto-de-Locadora-de-carros) 
 
-</br>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=JaumCarvalho.Projeto-de-Locadora-de-carros)
 
-## Utikizado neste projeto
+## Nivéis do projeto
+!![](https://progress-bar.dev/<20>?title=<FrontEnd>)
+
+
+## Utilizado neste projeto
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -15,8 +18,8 @@ Seja bem vindo ao <a href="https://github.com/JaumCarvalho/Projeto-de-Locadora-d
 
 ## Colaboradores
 
-Guilherme – [@anjosoff](https://linktr.ee/xnjosgui) – anjosgui12@gmail.com
-João – [@JaumCarvalho](https://) – anjosgui12@gmail.com
+- Guilherme – [@anjosoff](https://linktr.ee/xnjosgui) – anjosgui12@gmail.com
+- João – [@JaumCarvalho](https://) – anjosgui12@gmail.com
 
 Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 
