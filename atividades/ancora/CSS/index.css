@@ -1,0 +1,37 @@
+
+/* css para o menu*/
+
+ul li img{
+    margin: 0.5em;
+    border: 3px solid white; /*TAMANHO DA BORDA / TIPO DA BORDA / COR DA BORDA*/
+    box-shadow: 2px 2px 4px rgb(163, 163, 173);
+}
+
+/* AO PASSAR O MOUSE AS FOTOS EXPANDEM
+img:hover{
+    width: 25%;
+}*/
+figure img{
+    border-top: 3px solid gray;
+    border-bottom: 3px solid gray;
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    max-width: 77em;
+    margin: 0 auto;
+}
+h2{
+    font-family: garamond, Georgia, 'Times New Roman', Times, serif;
+    font-size: 3em;
+    font-style: italic;
+}
+p{
+    font-size: 20px;
+    margin: 3em auto ;
+}
+address{
+    background-color: white;
+    padding: 30px;
+}

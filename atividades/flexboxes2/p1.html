@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página 1 | Flexboxes2</title>
+    <style>
+        div.container{
+            background-color: antiquewhite;
+            padding: 1em;
+            margin: 1em;
+            display: flex;
+        }
+        div.container div{
+            border: 1px solid black;
+            padding: 1em;
+            margin: 1em;
+        }
+        div.center{
+            justify-content: center;
+        }
+        div.space-between{
+            justify-content: space-between;
+        }
+        div.space-around{
+            justify-content: space-around;
+        }
+    </style>
+</head>
+<body>
+    <h1>FLEXBOXES-Justify-content</h1>
+    <h2>CENTER</h2>
+        <div class="container center">
+            <div>1</div>
+            <div>2</div>
+            <div>3</div>
+            <div>4</div>
+            <div>5</div>
+            <div>6</div>
+            <div>7</div>
+            <div>8</div>
+        </div>
+        <h2>SPACE-BETWEEEN</h2>
+        <div class="container space-between">
+            <div>1</div>
+            <div>2</div>
+            <div>3</div>
+            <div>4</div>
+            <div>5</div>
+            <div>6</div>
+            <div>7</div>
+            <div>8</div>
+        </div>
+        <h2>SPACE-AROUND</h2>
+        <div class="container space-around">
+            <div>1</div>
+            <div>2</div>
+            <div>3</div>
+            <div>4</div>
+            <div>5</div>
+            <div>6</div>
+            <div>7</div>
+            <div>8</div>
+        </div>
+</body>
+</html>

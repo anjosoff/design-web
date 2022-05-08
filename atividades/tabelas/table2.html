@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade de Tabelas|Design Web</title>
+    <style>
+        table{
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            padding: 1em;
+        }    
+        td{
+            background-color: whitesmoke;
+            border: 1px solid gray;
+            padding: 1em;
+        }
+        th{
+            background-color: #3b7a57;
+            border: 1px solid gray;
+            padding: 1em;
+            text-align: left;
+        }
+        #bottom{
+            background-color: #ffff00;
+        }
+        li{
+            list-style-type: none;
+
+        }
+        ol a{
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-size:40px;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <caption>Gastos - primeiro trimestre 2012</caption>
+        <thead>
+            <th>MÊS</th>
+            <th>CATEGORIA</th>
+            <th>VALOR</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td rowspan="4">Janeiro</td>
+                <td>Transporte</td><td>R$74,00</td>
+            </tr>
+            <tr>
+                <td>Supermercado<td>R$235,00</td>
+            </tr>
+            <tr>
+                <td>Despesas domésticas<td>R$175,00</td>
+            </tr>
+            <tr>
+                <td>Entretenimento<td>R$90,00</td>
+            </tr>
+            <tr>
+                <td rowspan="4">Fevereiro</td><td>Entretenimento</td><td>R$100,00</td>
+            </tr>
+            <tr>
+                <td>Transporte</td><td>R$115,00</td>
+            </tr>
+            <tr>
+                <td>Supermercado</td><td>R$240,00</td>
+            </tr>
+            <tr>
+                <td>Despesas domésticas</td><td>R$225,00</td>
+            </tr>
+            <tr>
+                <td rowspan="4">Março</td><td>Transporte</td><td>R$90,00</td>
+            </tr>
+            <tr>
+                <td>Supermercado</td><td>R$260,00</td>
+            </tr>
+            <tr>
+                <td>Despesas Domésticas</td><td>R$200,00</td>
+            </tr>
+            <tr>
+                <td>Entretenimento</td><td>R$120,00</td>
+            </tr>
+            <tr>
+                <td rowspan="2"> </td> </td><td> </td><td> </td>
+            </tr>
+            <tr>
+                <td> </td><td> </td>
+            </tr>
+            <tr>
+                <td id="bottom">Total:</td><td id="bottom" colspan="3"></td>
+            </tr>
+        </tbody>
+    </table>
+    <ol>
+        <li><a href="table.html"> &lt;Tabela anterior</a></li>
+    </ol>
+</body>
+</html>

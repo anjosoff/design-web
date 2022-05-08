@@ -2,24 +2,29 @@
  ATIVIDADE DE LISTAS
  Fazer uma página com o conteúdo livre (sugestão: página com informações de livros, músicas, cantores, bandas....) com títulos, lista ordenada, lista não ordenada e lista aninhada. Usar as marcações com base na sintaxe, boas práticas e semântica.
 */
+/*
+Desenvolvido por INFOWEB
+
+CSS EXTERNO
+*/
 body{
-    background-color:#2f4f4f;
+    background-color: #344d56 ;
 }
 h1{
-    color:#f8f8ff;
+    color:#eff3f7;
     font-size: 35px;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h2{
-    color:#f8f8ff;
-    font-size: 25px;
+    color:#eff3f7;
+    font-size: 34px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 p{
-    font-size: 10 ;
+    font-size: 15px ;
     text-align: justify;
-    color: #f8f8ff;
+    color: white;
     font-family: inherit;
 }
 ul, ol{
@@ -31,7 +36,7 @@ ol.list2{
 ol.list2 li{
     text-align: left;
     width: 350;
-    color: white;
+    color:#aec2d7;
 }
 ul.list{
     list-style-type: disc;
@@ -39,7 +44,7 @@ ul.list{
 }
 ul.list li{
     width: 250px;
-    color: white;
+    color: #aec2d7;
 }
 ul.list3{
     list-style-type: square;
@@ -47,9 +52,9 @@ ul.list3{
 }
 ul.list3 li{
     width: 250px;
-    color: white;
+    color: #aec2d7;
 }
 address{
     text-align: center;
-    color:#f8f8ff;
+    color:#ffffff;
 }

@@ -1,0 +1,33 @@
+h2{
+    font-family: garamond, Georgia, 'Times New Roman', Times, serif;
+    
+    font-size: 3em;
+    margin: 0;
+    padding: 0.5em;
+    background-position: center;
+}
+figure img{
+    border: 2px solid gray;
+    padding: 1em;
+}
+ul{
+    text-decoration: none;
+    padding: 1em;
+    
+}
+ul li{
+    text-decoration: none;
+    font-size: 150%;
+    display: block;
+    padding: 0.5em 0;
+
+}
+p{
+    text-align: justify;
+    padding: 1em;
+    font-size: 20px;
+
+}
+iframe{
+    margin: 2em;
+}
