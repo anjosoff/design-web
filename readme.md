@@ -1,4 +1,5 @@
-# AULAS PRINCÍPIOS DE DESIGN E PROJETO GRÁFICO NO IFRN - 2020
+# 📁 Repositório de **Princípios de Design e Projeto Gráfico** 
+
 > Professora Danielle Gomes de Freitas Medeiros
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
